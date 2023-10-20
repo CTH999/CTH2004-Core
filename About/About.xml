@@ -25,9 +25,13 @@
     <li>unlimitedhugs.hugslib</li>
     <li>brrainz.harmony</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>dhultgren.keepbedownership</li>
   </loadAfter>
   <loadBefore>
-    <li>void.charactereditor</li>
-    <li>co.uk.epicguru.whatsthatmod</li>
+    <li>cth.ktc</li>
+    <li>cth.moresuperxenos</li>
+    <li>cth.vre-allexpanded</li>
+    <li>cth.vregeniesexpanded</li>
+    <li>cth.ultimatepower</li>
   </loadBefore>
 </ModMetaData>
