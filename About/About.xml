@@ -26,6 +26,10 @@
     <li>brrainz.harmony</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>dhultgren.keepbedownership</li>
+    <li>thamuzz.livingbuildingframework</li>
+
+    <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
+    <li>captainarbitrary.hugslibquickstartk</li>
   </loadAfter>
   <loadBefore>
     <li>cth.ktc</li>
@@ -33,5 +37,8 @@
     <li>cth.vre-allexpanded</li>
     <li>cth.vregeniesexpanded</li>
     <li>cth.ultimatepower</li>
+
+
+    <li>cth.order</li>
   </loadBefore>
 </ModMetaData>
