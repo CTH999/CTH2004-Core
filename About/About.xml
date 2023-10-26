@@ -30,6 +30,8 @@
 
     <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
     <li>captainarbitrary.hugslibquickstartk</li>
+
+    <li>void.charactereditor</li>
   </loadAfter>
   <loadBefore>
     <li>cth.ktc</li>
@@ -37,8 +39,13 @@
     <li>cth.vre-allexpanded</li>
     <li>cth.vregeniesexpanded</li>
     <li>cth.ultimatepower</li>
+    <li>cth.utraxeno</li>
+    <li>cth.moresuperherogenes</li>
+
+    <li>co.uk.epicguru.whatsthatmod</li>
+    <li>edb.preparecarefully</li>
 
 
-    <li>cth.order</li>
+
   </loadBefore>
 </ModMetaData>
